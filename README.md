@@ -1,10 +1,15 @@
-#### Waiter Tips prediction with machine learning - A mini project
+# Waiter Tips Prediction with Machine Learning
 
-The data recorded by the food server is as follows:  
-**total_bill**: Total bill in dollars including taxes  
-**tip**: Tip given to waiters in dollars  
-**sex**: gender of the person paying the bill  
-**smoker**: whether the person smoked or not  
-**day**: day of the week  
-**time**: lunch or dinner  
-**size**: number of people in a table 
+This mini-project focuses on predicting the tip amount a waiter might receive based on various features of the dining experience.
+
+## Dataset Overview
+
+The data used in this project was recorded by food servers and includes the following features:
+
+- **total_bill**: Total bill amount in dollars, including taxes  
+- **tip**: Tip given to the waiter in dollars *(target variable)*  
+- **sex**: Gender of the person paying the bill  
+- **smoker**: Indicates whether the person is a smoker or non-smoker  
+- **day**: Day of the week  
+- **time**: Time of day (Lunch or Dinner)  
+- **size**: Number of people at the table 
