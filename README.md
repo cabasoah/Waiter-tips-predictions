@@ -13,3 +13,16 @@ The data used in this project was recorded by food servers and includes the foll
 - **day**: Day of the week  
 - **time**: Time of day (Lunch or Dinner)  
 - **size**: Number of people at the table 
+
+## Objective
+To build a machine learning model that predicts the **tip amount** based on customer and dining attributes.
+
+## Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- plotly
+
+## Expected Outcome
+A trained model capable of estimating waiter tips with reasonable accuracy, helping understand factors that influence tipping behavior.
