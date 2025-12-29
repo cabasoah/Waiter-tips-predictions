@@ -25,4 +25,4 @@ To build a machine learning model that predicts the **tip amount** based on cust
 - plotly
 
 ## Expected Outcome
-A trained model capable of estimating waiter tips with reasonable accuracy, helping understand factors that influence tipping behavior.
+The model was evaluated using MAE, MSE, RMSE, and R² to assess prediction accuracy and goodness of fit.
